@@ -1,3 +1,7 @@
+# PowerWiki
+
+<img width="500" height="500" alt="Black White Minimal Modern Simple Bold Business Mag Logo" src="https://github.com/user-attachments/assets/2982b7bd-93e8-4699-b764-529a3387fc3c" />
+
 # 1. PowerShell Code
 
 1-1. Variable: $
